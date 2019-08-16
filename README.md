@@ -1,0 +1,1 @@
+# ldoce2anki
